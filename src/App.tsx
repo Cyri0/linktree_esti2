@@ -19,7 +19,6 @@ const App = () => {
         <Route path="/user/:username" element={<UserPage/>} />
         <Route path="/user" element={<UserPage/>} />
         <Route path="/user/:username/:id" element={<UserPage/>} />
-        
         <Route path="/pokemon/:name" element={<Pokemon />} />
       </Routes>
     </BrowserRouter>

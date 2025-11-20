@@ -1,6 +1,10 @@
+import CreateNewLink from "../components/CreateNewLink"
+
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <CreateNewLink/>
+    </div>
   )
 }
 
