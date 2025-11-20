@@ -8,6 +8,8 @@ import Pokemon from "./pages/Pokemon"
 // sziasztok
 // mizu
 // csináltam egy branch-et, juhuuuu
+// de ügyes vagyok, ezt is megoldottam
+// konflitus
 
 const App = () => {
   return (
