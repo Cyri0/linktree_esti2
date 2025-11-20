@@ -7,6 +7,7 @@ import Pokemon from "./pages/Pokemon"
 
 // sziasztok
 // mizu
+// konflitus
 
 const App = () => {
   return (
