@@ -5,6 +5,8 @@ import Navbar from "./components/Navbar"
 import UserPage from "./pages/UserPage"
 import Pokemon from "./pages/Pokemon"
 
+// sziasztok
+
 const App = () => {
   return (
     <BrowserRouter>
