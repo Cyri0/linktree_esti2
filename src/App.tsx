@@ -7,6 +7,7 @@ import Pokemon from "./pages/Pokemon"
 
 // sziasztok
 // mizu
+// csináltam egy branch-et, juhuuuu
 
 const App = () => {
   return (
