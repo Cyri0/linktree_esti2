@@ -6,6 +6,7 @@ import UserPage from "./pages/UserPage"
 import Pokemon from "./pages/Pokemon"
 
 // sziasztok
+// mizu
 
 const App = () => {
   return (
